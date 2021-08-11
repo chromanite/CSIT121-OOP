@@ -168,7 +168,7 @@ class Set {
     }
 }
 
-public class MinZhanFoo_A1 {
+public class Assignment1 {
     
     // Display zodiac info
     private static void displayZodiacInfo() {

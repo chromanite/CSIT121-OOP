@@ -460,7 +460,7 @@ class Sphere extends ThreeD {
     }
 }
 
-public class MinZhanFoo_A2 {
+public class Assignment2 {
     private static int getInt() {
         Random rand = new Random();
         return rand.nextInt(100);

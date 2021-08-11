@@ -125,7 +125,7 @@ class Participant {
     }
 }
 
-public class MinZhanFoo_A3 {
+public class Assogment3 {
     public static void main(String[] args) {
         QAFrame frame = new QAFrame();
         frame.setSize(1065, 800);

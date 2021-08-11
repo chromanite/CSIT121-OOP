@@ -1,5 +1,5 @@
 import java.util.*;
-
+  
 enum Zodiac {
     Aries ("ARI", "March 21", "April 19"),
     Taurus ("TAU", "April 20", "May 20"),
